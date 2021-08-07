@@ -1,6 +1,9 @@
 # resolve-it
 Resolve emoji, member, guild, channel with their id and obtain them with 100% of success.
 
+Working with `DJS v12 & v13`
+And usable with `Typescript`
+
 > Usable with Typescript.
 
 ## Usage
