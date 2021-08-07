@@ -1,0 +1,14 @@
+{
+  "name": "resolve-it",
+  "version": "1.0.0",
+  "description": "Find an emoji, member, channel, guild easily with 100% of succes !",
+  "main": "dist/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "KPS53",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.0.0"
+  }
+}
