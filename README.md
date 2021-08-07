@@ -1,6 +1,8 @@
 # resolve-it
 Resolve emoji, member, guild, channel with their id and obtain them with 100% of success.
 
+> Usable with Typescript.
+
 ## Usage
 
 > the resolver methods always take 2 parameters and are used with `await` key cause their return are  asynchronous.
