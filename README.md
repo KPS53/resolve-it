@@ -11,9 +11,9 @@ Resolve emoji, member, guild, channel with their id and obtain them with 100% of
 ```javascript
 import * as Discord from "discord.js"
 
-import { Resolving } from "resolve-it"
+import { Resolving } from "resolvinger"
 // OR
-const Resolving = require("resolve-it")
+const Resolving = require("resolvinger")
 // resolves a member
 await Resolving.resolveMember(guild, memberID)
 // resolves a channel
